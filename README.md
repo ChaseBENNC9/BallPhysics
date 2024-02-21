@@ -14,9 +14,13 @@ I intend to give the game 5 main levels and possibly a couple hidden levels. and
 - [ ] **Switch** This can change something in the level such as activate a moving platform or unlock a hidden area.
 - [ ] **Elevator / Moving Platform** These will move to a different area once activated with a switch
 - [ ] **Hazard** This will be an obstacle that will result in failure if touched by the player
+- [x] **Spinner** This is a spinning platform where the player needs to use timing and precision to navigate over.
 ### Levels
-- [x] Level 1
-- [ ] Level 2
-- [ ] Level 3
-- [ ] Level 4
-- [ ] Level 5 
+- [x] Level 1 - Basic introduction to mechanics. Main obstacle is the standard platform and jump pads
+- [x] Level 2 - Introduces switches and spinners. Contains many moving platforms that the player must activate first with switches.
+- [ ] Level 3 - Will introduce a more difficult navigation with thinner platforms. Will also contain a secret exit.
+- [ ] Level 4 - Introduces hazards and more physics based objects.
+- [ ] Level 5 - Will Combine many of the previously introduced mechanics
+
+#### Secret Levels
+Secret Levels can be unlocked by finding a secret path in the main levels. they will have some unique features
